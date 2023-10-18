@@ -1,0 +1,159 @@
+﻿  Exercicio2_10.c
+  Exercicio2_11.c
+  Exercicio2_12.c
+  Exercicio2_13.c
+  Exercicio2_14.c
+  Exercicio2_15.c
+  Exercicio2_16.c
+  Exercicio2_17.c
+  Exercicio2_18.c
+  Exercicio2_2.c
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 2\Exercicio2_2.c(7,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Exercicio2_1.c
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 2\Exercicio2_1.c(7,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Exercicio2_3.c
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 2\Exercicio2_3.c(7,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 2\Exercicio2_3.c(10,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Exercicio2_4.c
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 2\Exercicio2_4.c(9,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 2\Exercicio2_4.c(13,13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 2\Exercicio2_4.c(14,13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 2\Exercicio2_4.c(20,13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 2\Exercicio2_4.c(21,13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 2\Exercicio2_4.c(22,13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 2\Exercicio2_4.c(28,13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 2\Exercicio2_4.c(29,13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Exercicio2_5.c
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 2\Exercicio2_5.c(7,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Exercicio2_6.c
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 2\Exercicio2_6.c(8,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 2\Exercicio2_6.c(6,12): warning C4101: 'h': variável local não referenciada
+  Exercicio2_7.c
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 2\Exercicio2_7.c(7,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Exercicio2_8.c
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 2\Exercicio2_8.c(10,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 2\Exercicio2_8.c(22,12): warning C4244: 'return': conversão de 'int' para 'float', possível perda de dados
+  Exercicio2_9.c
+  Exercicio1_1.c
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 1\Exercicio1_1.c(7,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 1\Exercicio1_1.c(8,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Exercicio1_10.c
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 1\Exercicio1_10.c(8,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Gerando Código...
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 2\Exercicio2_11.c(20): warning C4715: 'operacao': nem todos os caminhos de controle retornam um valor
+  Compilando...
+  Exercicio1_11.c
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 1\Exercicio1_11.c(9,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 1\Exercicio1_11.c(10,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 1\Exercicio1_11.c(11,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Exercicio1_12.c
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 1\Exercicio1_12.c(8,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Exercicio1_13.c
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 1\Exercicio1_13.c(8,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 1\Exercicio1_13.c(9,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 1\Exercicio1_13.c(10,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Exercicio1_14.c
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 1\Exercicio1_14.c(8,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 1\Exercicio1_14.c(9,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Exercicio1_15.c
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 1\Exercicio1_15.c(8,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Exercicio1_2.c
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 1\Exercicio1_2.c(7,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 1\Exercicio1_2.c(8,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 1\Exercicio1_2.c(9,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Exercicio1_3.c
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 1\Exercicio1_3.c(7,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 1\Exercicio1_3.c(8,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Exercicio1_4.c
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 1\Exercicio1_4.c(7,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 1\Exercicio1_4.c(8,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 1\Exercicio1_4.c(9,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 1\Exercicio1_4.c(10,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Exercicio1_5.c
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 1\Exercicio1_5.c(7,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 1\Exercicio1_5.c(8,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 1\Exercicio1_5.c(9,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Exercicio1_6.c
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 1\Exercicio1_6.c(7,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Exercicio1_7.c
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 1\Exercicio1_7.c(6,11): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 1\Exercicio1_7.c(6,27): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 1\Exercicio1_7.c(6,43): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+  Exercicio1_8.c
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 1\Exercicio1_8.c(8,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 1\Exercicio1_8.c(9,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Exercicio1_9.c
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 1\Exercicio1_9.c(7,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 1\Exercicio1_9.c(8,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Exercicio3_1.c
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 3\Exercicio3_1.c(9,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Exercicio3_10.c
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 3\Exercicio3_10.c(23,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Exercicio3_11.c
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 3\Exercicio3_11.c(6,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Exercicio3_12.c
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 3\Exercicio3_12.c(9,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 3\Exercicio3_12.c(15,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 3\Exercicio3_12.c(22,32): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+  Exercicio3_13.c
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 3\Exercicio3_13.c(16,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 3\Exercicio3_13.c(19,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Exercicio3_14.c
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 3\Exercicio3_14.c(9,13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Exercicio3_15.c
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 3\Exercicio3_15.c(6,17): error C2057: esperada expressão constante
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 3\Exercicio3_15.c(6,18): error C2466: não é possível alocar uma matriz de dimensão constante 0
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 3\Exercicio3_15.c(6,20): error C2057: esperada expressão constante
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 3\Exercicio3_15.c(6,21): error C2466: não é possível alocar uma matriz de dimensão constante 0
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 3\Exercicio3_15.c(6,9): error C2087: 'numeros': faltando subscrito
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 3\Exercicio3_15.c(6,9): error C2133: 'numeros': dimensão desconhecida
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 3\Exercicio3_15.c(5,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Gerando Código...
+  Compilando...
+  Exercicio3_16.c
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 3\Exercicio3_16.c(8,13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Exercicio3_17.c
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 3\Exercicio3_17.c(11,17): error C2057: esperada expressão constante
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 3\Exercicio3_17.c(11,18): error C2466: não é possível alocar uma matriz de dimensão constante 0
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 3\Exercicio3_17.c(11,20): error C2057: esperada expressão constante
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 3\Exercicio3_17.c(11,21): error C2466: não é possível alocar uma matriz de dimensão constante 0
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 3\Exercicio3_17.c(11,9): error C2087: 'numeros': faltando subscrito
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 3\Exercicio3_17.c(11,9): error C2133: 'numeros': dimensão desconhecida
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 3\Exercicio3_17.c(19,47): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 3\Exercicio3_17.c(22,63): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 3\Exercicio3_17.c(7,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 3\Exercicio3_17.c(9,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Exercicio3_18.c
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 3\Exercicio3_18.c(9,13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Exercicio3_19.c
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 3\Exercicio3_19.c(9,13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Exercicio3_2.c
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 3\Exercicio3_2.c(10,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Exercicio3_20.c
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 3\Exercicio3_20.c(9,17): error C2057: esperada expressão constante
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 3\Exercicio3_20.c(9,18): error C2466: não é possível alocar uma matriz de dimensão constante 0
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 3\Exercicio3_20.c(9,20): error C2057: esperada expressão constante
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 3\Exercicio3_20.c(9,21): error C2466: não é possível alocar uma matriz de dimensão constante 0
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 3\Exercicio3_20.c(9,9): error C2087: 'tabelaT': faltando subscrito
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 3\Exercicio3_20.c(9,9): error C2133: 'tabelaT': dimensão desconhecida
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 3\Exercicio3_20.c(6,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 3\Exercicio3_20.c(7,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 3\Exercicio3_20.c(13,13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Exercicio3_3.c
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 3\Exercicio3_3.c(9,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Exercicio3_4.c
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 3\Exercicio3_4.c(9,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 3\Exercicio3_4.c(14,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 3\Exercicio3_4.c(18,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Exercicio3_5.c
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 3\Exercicio3_5.c(10,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Exercicio3_6.c
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 3\Exercicio3_6.c(6,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 3\Exercicio3_6.c(9,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Exercicio3_7.c
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 3\Exercicio3_7.c(10,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Exercicio3_8.c
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 3\Exercicio3_8.c(9,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Exercicio3_9.c
+C:\Users\Usuário\Desktop\UFABC\Aula de C\Exercicio4\Exercicios\Exercicios\Aula 3\Exercicio3_9.c(18,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Gerando Código...
