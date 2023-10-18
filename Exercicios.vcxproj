@@ -180,6 +180,18 @@
     <ClCompile Include="Aula 3\Exercicio3_7.c" />
     <ClCompile Include="Aula 3\Exercicio3_8.c" />
     <ClCompile Include="Aula 3\Exercicio3_9.c" />
+    <ClCompile Include="Aula 4\Biblioteca\Exercicio_08_bib.c" />
+    <ClCompile Include="Aula 4\Exercicio4_1.c" />
+    <ClCompile Include="Aula 4\Exercicio4_2.c" />
+    <ClCompile Include="Aula 4\Exercicio4_3.c" />
+    <ClCompile Include="Aula 4\Exercicio4_4.c" />
+    <ClCompile Include="Aula 4\Exercicio4_5.c" />
+    <ClCompile Include="Aula 4\Exercicio4_6.c" />
+    <ClCompile Include="Aula 4\Exercicio4_7.c" />
+    <ClCompile Include="Aula 4\Exercicio4_8.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Aula 4\Biblioteca\Exercicio_08_bib.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
